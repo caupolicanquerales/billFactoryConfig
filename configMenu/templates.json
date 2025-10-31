@@ -1,0 +1,17 @@
+{
+    "Datos": [
+        {
+            "label": "Generar",
+            "templateName": "generate-data"
+        }
+    ],
+    "Facturas":[
+        {
+            "label": "Plantilla",
+            "templateName": "show-template"
+        }
+    ]
+}
+
+
+    

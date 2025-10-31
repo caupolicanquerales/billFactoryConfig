@@ -1,0 +1,39 @@
+[
+    {
+        "label": "Datos",
+        "icon": "pi pi-list-check",
+        "items": [
+            {
+                "label": "Generar",
+                "icon": "pi pi-refresh",
+                "command": null
+            },
+            {
+                "label": "Prompt",
+                "icon": "pi pi-align-left",
+                "items": []
+            },
+            {
+                "label": "Borrar",
+                "icon": "pi pi-eraser"
+            }
+        ]
+    },{
+       "separator": true
+    },
+    {
+        "label": "Facturas",
+        "icon": "pi pi-file-edit",
+        "items": [
+            {
+                "label": "Plantilla",
+                "icon": "pi pi-receipt",
+                "command": null
+            },
+            {
+                "label": "Generar",
+                "icon": "pi pi-refresh"
+            }
+        ]
+    }
+]
