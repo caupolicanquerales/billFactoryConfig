@@ -29,8 +29,6 @@
                 "icon": "pi pi-eraser"
             }
         ]
-    },{
-       "separator": true
     },
     {
         "label": "Facturas",
