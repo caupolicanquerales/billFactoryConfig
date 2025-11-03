@@ -1,5 +1,16 @@
 [
     {
+        "label": "Documentación",
+        "icon": "pi pi-book",
+        "items": [
+            {
+                "label": "Ingresar",
+                "icon": "pi pi-file-import",
+                "command": null
+            }
+        ]
+    },
+    {
         "label": "Datos",
         "icon": "pi pi-list-check",
         "items": [
