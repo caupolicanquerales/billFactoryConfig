@@ -47,7 +47,7 @@
                 "label": "Visualizador",
                 "icon": "pi pi-desktop",
                 "command": null
-            },
+            }
         ]
     }
 ]
