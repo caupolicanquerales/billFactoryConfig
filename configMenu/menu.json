@@ -42,7 +42,12 @@
             {
                 "label": "Generar",
                 "icon": "pi pi-refresh"
-            }
+            },
+            {
+                "label": "Visualizador",
+                "icon": "pi pi-desktop",
+                "command": null
+            },
         ]
     }
 ]
