@@ -44,6 +44,11 @@
                 "icon": "pi pi-refresh"
             },
             {
+                "label": "Prompt",
+                "icon": "pi pi-align-left",
+                "items": []
+            },
+            {
                 "label": "Visualizador",
                 "icon": "pi pi-desktop",
                 "command": null
