@@ -37,7 +37,7 @@
     },
     {
         "label": "Facturas",
-        "icon": "pi pi-file-edit",
+        "icon": "pi pi-image",
         "items": [
             {
                 "label": "Plantilla",
@@ -58,6 +58,12 @@
                 "icon": "pi pi-desktop",
                 "command": null
             }
+        ]
+    },
+    {
+        "label": "Editor",
+        "icon": "pi pi-file-edit",
+        "items": [
         ]
     }
 ]
