@@ -20,7 +20,12 @@
                 "command": null
             },
             {
-                "label": "Prompt",
+                "label": "Prompt imagen",
+                "icon": "pi pi-align-left",
+                "items": []
+            },
+            {
+                "label": "Prompt dato",
                 "icon": "pi pi-align-left",
                 "items": []
             },
