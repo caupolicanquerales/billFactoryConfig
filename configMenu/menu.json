@@ -64,6 +64,11 @@
         "label": "Editor",
         "icon": "pi pi-file-edit",
         "items": [
+            {
+                "label": "Ingresar",
+                "icon": "pi pi-pencil",
+                "command": null
+            }
         ]
     }
 ]
