@@ -49,6 +49,11 @@
                 "icon": "pi pi-refresh"
             },
             {
+                "label": "Prompt imagen",
+                "icon": "pi pi-align-left",
+                "items": []
+            },
+            {
                 "label": "Prompt factura",
                 "icon": "pi pi-align-left",
                 "items": []
