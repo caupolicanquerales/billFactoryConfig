@@ -75,5 +75,10 @@
                 "command": null
             }
         ]
+    },
+    {
+        "label": "Borrar prompt",
+        "icon": "pi pi-eraser",
+        "items": []
     }
 ]
