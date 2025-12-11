@@ -79,6 +79,12 @@
     {
         "label": "Borrar prompt",
         "icon": "pi pi-eraser",
-        "items": []
+        "items": [
+            {
+                "label": "Ingresar",
+                "icon": "pi pi-sign-in",
+                "command": null
+            }
+        ]
     }
 ]
