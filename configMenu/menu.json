@@ -86,5 +86,16 @@
                 "command": null
             }
         ]
+    },
+    {
+        "label": "Editar defecto",
+        "icon": "pi pi-hammer",
+        "items": [
+            {
+                "label": "Ingresar",
+                "icon": "pi pi-sign-in",
+                "command": null
+            }
+        ]
     }
 ]
