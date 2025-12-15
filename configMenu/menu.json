@@ -93,7 +93,7 @@
         "items": [
             {
                 "label": "Ingresar",
-                "icon": "pi pi-list-check",
+                "icon": "pi pi-sign-in",
                 "command": null
             }
         ]
