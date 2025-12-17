@@ -15,8 +15,8 @@
         "icon": "pi pi-list-check",
         "items": [
             {
-                "label": "Generar",
-                "icon": "pi pi-refresh",
+                "label": "Prompt nuevo",
+                "icon": "pi pi-align-left",
                 "command": null
             },
             {
@@ -28,10 +28,6 @@
                 "label": "Prompt dato",
                 "icon": "pi pi-align-left",
                 "items": []
-            },
-            {
-                "label": "Borrar",
-                "icon": "pi pi-eraser"
             }
         ]
     },
