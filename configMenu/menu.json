@@ -66,6 +66,11 @@
                 "command": null
             },
             {
+                "label": "Editar defecto",
+                "icon": "pi pi-hammer",
+                "command": null
+            },
+            {
                 "label": "Editor",
                 "icon": "pi pi-pencil",
                 "command": null
@@ -75,17 +80,6 @@
     {
         "label": "Borrar prompt",
         "icon": "pi pi-eraser",
-        "items": [
-            {
-                "label": "Ingresar",
-                "icon": "pi pi-sign-in",
-                "command": null
-            }
-        ]
-    },
-    {
-        "label": "Editar defecto",
-        "icon": "pi pi-hammer",
         "items": [
             {
                 "label": "Ingresar",
