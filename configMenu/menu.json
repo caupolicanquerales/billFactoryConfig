@@ -41,8 +41,8 @@
                 "command": null
             },
             {
-                "label": "Generar",
-                "icon": "pi pi-refresh"
+                "label": "Prompt nuevo",
+                "icon": "pi pi-align-left"
             },
             {
                 "label": "Prompt imagen",
