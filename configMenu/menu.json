@@ -36,11 +36,6 @@
         "icon": "pi pi-image",
         "items": [
             {
-                "label": "Plantilla",
-                "icon": "pi pi-receipt",
-                "command": null
-            },
-            {
                 "label": "Prompt nuevo",
                 "icon": "pi pi-align-left"
             },
@@ -62,11 +57,16 @@
         ]
     },
     {
-        "label": "Editor",
+        "label": "Edición",
         "icon": "pi pi-file-edit",
         "items": [
             {
-                "label": "Ingresar",
+                "label": "Plantilla",
+                "icon": "pi pi-receipt",
+                "command": null
+            },
+            {
+                "label": "Editor",
                 "icon": "pi pi-pencil",
                 "command": null
             }
