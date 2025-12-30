@@ -78,6 +78,17 @@
         ]
     },
     {
+        "label": "Constructor",
+        "icon": "pi pi-building",
+        "items": [
+            {
+                "label": "Ingresar",
+                "icon": "pi pi-sign-in",
+                "command": null
+            }
+        ]
+    },
+    {
         "label": "Borrar prompt",
         "icon": "pi pi-eraser",
         "items": [
