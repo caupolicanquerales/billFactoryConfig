@@ -11,7 +11,7 @@
         ]
     },
     {
-        "label": "Generador",
+        "label": "Agente",
         "icon": "pi pi-list-check",
         "items": [
             {
@@ -32,7 +32,7 @@
         ]
     },
     {
-        "label": "Facturas",
+        "label": "Imagenes",
         "icon": "pi pi-image",
         "items": [
             {
@@ -57,7 +57,7 @@
         ]
     },
     {
-        "label": "Edición",
+        "label": "Plantilla/Editor",
         "icon": "pi pi-file-edit",
         "items": [
             {
