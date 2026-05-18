@@ -40,14 +40,14 @@
                 "icon": "pi pi-receipt",
                 "command": null
             },
-            {
-                "label": "Editar defecto",
-                "icon": "pi pi-hammer",
+             {
+                "label": "Editor",
+                "icon": "pi pi-pencil",
                 "command": null
             },
             {
-                "label": "Editor",
-                "icon": "pi pi-pencil",
+                "label": "Editar defecto",
+                "icon": "pi pi-hammer",
                 "command": null
             }
         ]
