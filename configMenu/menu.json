@@ -18,16 +18,6 @@
                 "label": "Prompt nuevo",
                 "icon": "pi pi-align-left",
                 "command": null
-            },
-            {
-                "label": "Prompt imagen",
-                "icon": "pi pi-align-left",
-                "items": []
-            },
-            {
-                "label": "Prompt dato",
-                "icon": "pi pi-align-left",
-                "items": []
             }
         ]
     },
@@ -38,21 +28,6 @@
             {
                 "label": "Prompt nuevo",
                 "icon": "pi pi-align-left"
-            },
-            {
-                "label": "Prompt imagen",
-                "icon": "pi pi-align-left",
-                "items": []
-            },
-            {
-                "label": "Prompt factura",
-                "icon": "pi pi-align-left",
-                "items": []
-            },
-            {
-                "label": "Visualizador",
-                "icon": "pi pi-desktop",
-                "command": null
             }
         ]
     },
